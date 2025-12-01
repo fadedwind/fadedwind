@@ -22,10 +22,6 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fadedwind/fadedwind/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- 个人统计卡片 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadedwind&show_icons=true&theme=radical" alt="Fadedwind's Stats" />
-  
-  <!-- 常用语言统计 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadedwind&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+![Fadedwind's Stats](https://github-readme-stats.vercel.app/api?username=fadedwind&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadedwind&layout=compact&theme=radical)
