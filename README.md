@@ -22,6 +22,6 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fadedwind/fadedwind/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Fadedwind's Stats](https://github-readme-stats.vercel.app/api?username=fadedwind&show_icons=true&theme=radical)
+![Fadedwind's Stats](https://github-readme-stats.vercel.app/api?username=fadedwind&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadedwind&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadedwind&layout=compact&theme=radical&cache_seconds=86400)
