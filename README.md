@@ -1,5 +1,7 @@
 ## Hello!大家好！
+可以称呼我焰蘅~！
 我是一个独立游戏设计师！正在学习与制作自己的游戏！
+每天进步！
 <!--
 **fadedwind/fadedwind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
